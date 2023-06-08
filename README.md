@@ -1,13 +1,12 @@
-# Simple Chat Bot
-
-<img src="./GitHubImages/ss.jpeg" width="340vw">
-
-### Prerequisites
-* Recycler Views
-  * <a href="https://youtu.be/__OMnFR-wZU">Tutorial Part 1</a>
-  * <a href="https://youtu.be/vBxNDtyE_Co">Tutorial Part 2</a>
-  * <a href="https://developer.android.com/reference/kotlin/androidx/recyclerview/widget/RecyclerView">Docs</a>
-  
-* Get Requests using Volley
-  * <a href="https://youtu.be/y2xtLqP8dSQ">How to Parse a Json Using Volley - SIMPLE GET REQUEST</a>
-  * <a href="https://developer.android.com/training/volley">Docs</a>
+![kl](https://github.com/jyotiram7402/Chatbot_Android_App/assets/97680733/29e38f7f-3d10-4b7e-9a76-6de03a42d5fe)
+![l](https://github.com/jyotiram7402/Chatbot_Android_App/assets/97680733/79a08673-25c2-49ae-8272-432ab823b427)
+![m](https://github.com/jyotiram7402/Chatbot_Android_App/assets/97680733/fdb58758-be93-4da3-8637-5767ed5eddb8)
+![1](https://github.com/jyotiram7402/Chatbot_Android_App/assets/97680733/f1b1fd9e-fcf4-4adc-b268-fcfe86185e31)
+![a](https://github.com/jyotiram7402/Chatbot_Android_App/assets/97680733/7d64ea4e-de5a-4331-ad61-c44c987bacc8)
+![b](https://github.com/jyotiram7402/Chatbot_Android_App/assets/97680733/6a3fe3f1-5cc1-467e-8d62-45165b311c3c)
+![d](https://github.com/jyotiram7402/Chatbot_Android_App/assets/97680733/ff888331-3985-4ce6-b837-f229c6769328)
+![f](https://github.com/jyotiram7402/Chatbot_Android_App/assets/97680733/c05d2f6a-4d74-4171-be34-3201fcca6893)
+![g](https://github.com/jyotiram7402/Chatbot_Android_App/assets/97680733/43c3f9a8-7781-4770-ad71-99bf54249166)
+![h](https://github.com/jyotiram7402/Chatbot_Android_App/assets/97680733/1d44c6db-ac1e-4b24-b19f-06228f77cf62)
+![j](https://github.com/jyotiram7402/Chatbot_Android_App/assets/97680733/6e7a45d5-b033-485b-8d7b-1646b3b76f29)
+![k](https://github.com/jyotiram7402/Chatbot_Android_App/assets/97680733/f4bac32c-9c84-434a-a565-2a0d37b1bbf7)
